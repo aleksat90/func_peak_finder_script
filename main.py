@@ -20,13 +20,13 @@ tragac.square(5)
 
 #PREBACENO IZ PEAK FINEDER       
         
-import os
-folder="C:\\Users\\TOA2BG\Documents\\Phyton\\Peak_finder\\P_07"
-file_list=os.listdir(folder)
+# import os
+# folder="C:\\Users\\TOA2BG\Documents\\Phyton\\Peak_finder\\P_07"
+# file_list=os.listdir(folder)
 
-str1="C:\\Users\\TOA2BG\Documents\\Phyton\\Peak_finder\\P_07\\"
-str2=str(file_list[0])
-str3=str1+str2
+# str1="C:\\Users\\TOA2BG\Documents\\Phyton\\Peak_finder\\P_07\\"
+# str2=str(file_list[0])
+# str3=str1+str2
 
 
 import csv
